@@ -1,0 +1,1 @@
+mod erc721_open_edition_deploy;
